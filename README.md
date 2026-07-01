@@ -1,4 +1,4 @@
-Economics B.A. → Computer Science M.S.
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Bilibili-@某-00A1D6?style=flat-square&logo=bilibili&logoColor=white" />
